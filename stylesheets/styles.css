@@ -35,12 +35,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:rgb(249, 42, 245);
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:rgb(153, 0, 110);
 }
 
 a small {
